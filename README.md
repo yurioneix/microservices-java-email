@@ -1,7 +1,7 @@
 # 📩 Microsserviço de envio de email
 Projeto de estudo de microsserviços em Java, baseado no vídeo da Michelli Brito [Microsserviços na prática com Java Spring](https://www.youtube.com/watch?v=ZnECi2gatMs&t=4335s).
 
-Esse microsserviço envia email para os usuários que se cadastram na aplicação, utilizando RabbitMQ para consumir mensagens da fila do Broker, publicadas pelo [Microsserviço de Usuários](https://github.com/yurioneix/microservices-java-users).
+Esse microsserviço envia email para os usuários que se cadastram na aplicação, utilizando RabbitMQ para consumir mensagens da fila do Broker, publicadas pelo [Microsserviço de Usuários](https://github.com/yurioneix/microservices-java-user).
 
 ## Instalação e configuração
 - Baixe o repositório na sua máquina:
